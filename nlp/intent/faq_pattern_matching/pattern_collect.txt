@@ -1,0 +1,30 @@
+이체한도변경
+이체한도/NNG 증액|감액|변경|수정/NNG 방법/NNG
+이체한도/NNG 증액|감액|변경|수정/NNG 하/XSV 려고요/EC
+이체한도/NNG 증액|감액|변경|수정/NNG 하/XSV 어/EC 주/VX 시/EP 어요/EF
+이체한도/NNG 증액|감액|변경|수정/NNG 어떻게/MAG 하/VV 나요/EF
+
+해외송금 수수료
+해외/NNG 송금/NNG 수수료|비용/NNG 얼마/NNG 이/VCP ㄴ가요/EC
+해외/NNG 송금/NNG 수수료|비용/NNG 얼마/NNG 이/VCP ㅔ요/EF
+해외/NNG 송금/NNG 시/NNB 수수료|비용/NNG 얼마/NNG 이/VCP ㄴ가요/EC
+해외/NNG 송금/NNG 시/NNB 수수료|비용/NNG 얼마/NNG 이/VCP ㅔ요/EF
+해외/NNG 송금/NNG 시/NNB 비용|수수료/NNG
+해외/NNG 송금/NNG 수수료|비용/NNG
+
+퇴직연금 중도인출
+퇴직연금/NNG 중도/NNG 인출하|해지하/VV
+퇴직연금/NNG 중도/NNG 찾/VV
+퇴직연금/NNG DC형|IRP형|dc형|irp형/NNG 중도/NNG 인출하|해지하/VV
+퇴직연금/NNG DC형|IRP형|dc형|irp형/NNG 중도/NNG 찾/VV
+DC형|dc형|IRP형|irp형/NNG 중도/NNG 인출|해지/NNG
+DC형|dc형|IRP형|irp형/NNG 중도/NNG 인출하|해지하/VV
+DC형|dc형|IRP형|irp형/NNG 중도/NNG 찾/VV
+퇴직연금/NNG DB형|db형/NNG 중도/NNG 인출|해지/NNG
+퇴직연금/NNG DB형|db형/NNG 중도/NNG 인출하|해지하/VV
+퇴직연금/NNG DB형|db형/NNG 중도/NNG 찾/VV
+DB형|db형/NNG 중도/NNG 인출/NNG
+DB형|db형/NNG 중도/NNG 인출하/VV
+DB형|db형/NNG 중도/NNG 찾/VV
+퇴직연금/NNG DC형|IRP형|dc형|irp형/NNG 중도/NNG 인출|해지/NNG
+퇴직연금/NNG 중도/NNG 인출|해지/NNG
